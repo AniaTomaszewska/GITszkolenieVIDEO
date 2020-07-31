@@ -1,3 +1,5 @@
 to jest test zapisu historia zmian
 
 To jest zmiana druga.
+
+Tego nie ma być widać.
