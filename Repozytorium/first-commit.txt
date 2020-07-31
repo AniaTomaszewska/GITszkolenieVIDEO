@@ -1,0 +1,3 @@
+to jest test zapisu historia zmian
+
+To jest zmiana druga.
