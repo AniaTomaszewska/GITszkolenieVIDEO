@@ -1,2 +1,4 @@
 excluded/*
 *.bat
+
+.gitignore
