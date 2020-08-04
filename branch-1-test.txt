@@ -1,1 +1,3 @@
 wpisanie wartości nr 1.
+
+Branch - robienie konfliktu.
