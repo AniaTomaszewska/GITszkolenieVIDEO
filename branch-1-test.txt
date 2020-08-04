@@ -1,3 +1,5 @@
 wpisanie wartości nr 1.
 
-Branch - robienie konfliktu.
+Zmiana wartości pliku - TESTOWANIE.
+Teraz to ma być tak widoczne.
+Test/zadani zdane.
