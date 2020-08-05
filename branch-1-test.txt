@@ -1,5 +1,11 @@
 wpisanie wartości nr 1.
 
+<<<<<<< HEAD
 wykasowanie ręczne.
 To teraz ma być.
 
+=======
+Zmiana wartości pliku - TESTOWANIE.
+Teraz to ma być tak widoczne.
+Test/zadani zdane.
+>>>>>>> 6a63edd36334ef031f835e4a7287b187ed749e23
