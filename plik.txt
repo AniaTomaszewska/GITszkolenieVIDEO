@@ -1,1 +1,4 @@
 Ala ma kota.
+
+Rebase zawartości tego pliku.
+on ma być FINALNIE widoczny.
