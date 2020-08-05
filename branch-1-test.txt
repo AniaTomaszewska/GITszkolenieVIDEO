@@ -1,3 +1,5 @@
 wpisanie wartości nr 1.
 
-Branch - robienie konfliktu.
+wykasowanie ręczne.
+To teraz ma być.
+
